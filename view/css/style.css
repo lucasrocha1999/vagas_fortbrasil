@@ -1,4 +1,26 @@
 
+#header .nav-link{
+    color: #138646;
+}
+
+.theme-fortBrasil{
+    padding-top:.03rem;
+}
+#header .navbar{
+    padding:0;
+    margin-top:0;
+    margin-bottom:0;
+    background:#fff;
+}
+#header{
+    background:#fff;
+    position:fixed;
+    width:100%;
+    height:5rem;
+    top:0;
+    box-shadow:2px 2px 4px rgba(0,0,0,.3);
+}
+/* 
 .menu-principal {
     position: fixed;
     background: #ffffff;
@@ -6,12 +28,18 @@
     justify-content: space-between;
     height: 80px;
     width: 100%;
+} */
+
+.trabalhe__conosco{
+    margin-top: 80px;
+    box-sizing: border-box;
 }
+
 
 .menu-principal img {
     margin-left: 150px;
 }
-
+/*
 nav ul {
     display: flex;
     list-style: none;
@@ -30,11 +58,7 @@ article {
     background-color: #F2F2F2;
 }
 
-article img {
-    margin-top: 80px;
-    box-sizing: border-box;
-    width: 100%;
-}
+
 
 article .container {
     margin: 50px auto;
@@ -65,8 +89,4 @@ section .player {
     display: flex;
     width: 47%;
     margin-top: 70px;
-}
-
-#header .nav-link{
-    color: #138646;
-}
+} */
