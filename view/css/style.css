@@ -1,7 +1,4 @@
-* {
-    margin: 0px;
-    padding: 0px;
-}
+
 .menu-principal {
     position: fixed;
     background: #ffffff;
@@ -68,4 +65,8 @@ section .player {
     display: flex;
     width: 47%;
     margin-top: 70px;
+}
+
+#header .nav-link{
+    color: #138646;
 }
